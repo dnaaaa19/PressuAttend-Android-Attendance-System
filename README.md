@@ -1,4 +1,4 @@
-# PressuAttend – Android Attendance App
+# PressuAttend – Android Attendance System
 
 PressuAttend is an **Android attendance application** developed using **Android Studio** and **Java**, with **Firebase** as the backend database and authentication service.
 
